@@ -1,0 +1,6 @@
+[ignore]
+
+[libs]
+
+[options]
+module.system=haste
