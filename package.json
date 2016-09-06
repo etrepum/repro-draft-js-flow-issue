@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "fbjs": "0.8.4",
-    "flow-bin": "0.31.1",
+    "flow-bin": "0.32.0",
     "immutable": "3.8.1",
     "react": "15.3.1",
     "react-dom": "15.3.1"
