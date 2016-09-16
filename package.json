@@ -6,7 +6,7 @@
     "test": "flow"
   },
   "dependencies": {
-    "draft-js": "0.9.0"
+    "draft-js": "0.9.1"
   },
   "devDependencies": {
     "fbjs": "0.8.4",
