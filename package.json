@@ -2,17 +2,19 @@
   "name": "repro-draft-js-flow-issue",
   "description": "Reproduce flow issues with draft-js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etrepum/repro-draft-js-flow-issue.git"
+  },
   "scripts": {
     "test": "flow"
   },
   "dependencies": {
-    "draft-js": "0.9.1"
+    "draft-js": "0.10.0"
   },
   "devDependencies": {
-    "fbjs": "0.8.4",
-    "flow-bin": "0.32.0",
-    "immutable": "3.8.1",
-    "react": "15.3.1",
-    "react-dom": "15.3.1"
+    "flow-bin": "0.41.0",
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
   }
 }
