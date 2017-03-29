@@ -4,7 +4,7 @@
 
 This repo demonstrates that
 [draft-js](https://github.com/facebook/draft-js) 0.10.0
-fails when checked with [flow](https://github.com/facebook/flow) 0.41.0.
+fails when checked with [flow](https://github.com/facebook/flow) 0.42.0.
 
 See the failed build in Travis at: [travis-ci.org/etrepum/repro-draft-js-flow-issue](https://travis-ci.org/etrepum/repro-draft-js-flow-issue)
 
