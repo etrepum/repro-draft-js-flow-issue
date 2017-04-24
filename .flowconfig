@@ -1,5 +1,5 @@
 [ignore]
-<PROJECT_ROOT>/node_modules/[^/]+/node_modules/fbjs/.*
+<PROJECT_ROOT>/node_modules/draft-js/examples/.*
 
 [libs]
 node_modules/fbjs/flow/lib/dev.js
@@ -9,3 +9,4 @@ module.system=haste
 esproposal.class_static_fields=enable
 suppress_type=$FlowIssue
 suppress_comment=\\(.\\|\n\\)*\\$FlowIssue
+module.name_mapper='^ReactDOM$' -> 'react-dom'
